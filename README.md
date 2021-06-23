@@ -8,3 +8,6 @@ parser.py is slightly refactored parser for hh.ru
 
 
 App is a Flask app,while other file are necessary for Heroku deployment
+
+
+Deploying Flask App on Heroku:https://dev.to/techparida/how-to-deploy-a-flask-app-on-heroku-heb
