@@ -6,9 +6,6 @@ Flask app is in App folder.
 netology.ipynb includes a basic parser, vanancies analysis and ML Random Forest model.
 
 
-parser.py is a parser for hh.ru.
-
-
 Other files are necessary for Heroku deployment.
 
 
